@@ -2,6 +2,10 @@
 
 Website for the Easton Area High School Research Club.
 
+## Live Site
+
+https://rayan-m-nadeem.github.io/Research-Club/
+
 ## Pages
 
 - `index.html` — Home
@@ -11,7 +15,7 @@ Website for the Easton Area High School Research Club.
 
 ## Publishing
 
-This is a static HTML site and can be hosted directly with GitHub Pages.
+This is a static HTML site configured for GitHub Pages deployment through GitHub Actions. Changes pushed to `main` will deploy automatically once GitHub Pages is enabled for this repository.
 
 ## Credit
 
